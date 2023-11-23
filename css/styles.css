@@ -253,14 +253,14 @@ input::placeholder {
 /*------------------------------------------------------ Background Image ------------------------------------------- */
 .bg-img {
     height: fit-content;
-    width: 50%;
+    width: 45%;
     min-width: 600px;
     /* height: auto; */
     position: fixed;
     bottom: -30px;
     left: 0;
     right: 0;
-    margin: 10px;
+    margin: auto;
 }
 
 /* ----------------------------------------------Toast for notification--------------------------------------------------*/

@@ -139,7 +139,7 @@ body {
 /*---------------------------------------------------- Search Bar and Results---------------------------------------- */
 
 .search-bar-container {
-    display: flex;
+    display: absolute;
     align-items: center;
     justify-content: center;
     height: 50px;

@@ -260,7 +260,7 @@ input::placeholder {
     bottom: -30px;
     left: 0;
     right: 0;
-    margin: auto;
+    margin: 10px;
 }
 
 /* ----------------------------------------------Toast for notification--------------------------------------------------*/

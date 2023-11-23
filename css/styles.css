@@ -253,7 +253,7 @@ input::placeholder {
 /*------------------------------------------------------ Background Image ------------------------------------------- */
 .bg-img {
     height: fit-content;
-    width: 53%;
+    width: 50%;
     min-width: 600px;
     /* height: auto; */
     position: fixed;
